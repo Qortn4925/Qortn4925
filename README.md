@@ -27,3 +27,36 @@
     <div align= "center">  </div> 
     </div>
 
+
+    # 👋 Hi, I'm [Your Name]!
+
+Welcome to my GitHub profile! I'm a passionate developer who loves building robust applications and exploring new technologies.
+
+---
+
+## 🛠️ My Tech Stack:
+- **Languages:** JavaScript, Python, Java, SQL
+- **Frameworks:** React, Node.js, Express, Django
+- **Tools:** Git, Docker, Webpack
+- **Databases:** MongoDB, MariaDB, PostgreSQL
+- **Others:** REST APIs, GraphQL, Cloud Services (AWS, GCP)
+
+---
+
+## 📚 Blog
+I write about programming tips, tutorials, and my development journey on my [Tech Blog](https://yourbloglink.com).
+
+---
+
+## 🚀 Projects
+- [Project 1](https://github.com/yourname/project1): Brief description.
+- [Project 2](https://github.com/yourname/project2): Brief description.
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/yourname)
+- [Twitter](https://twitter.com/yourname)
+
+Thanks for visiting my profile! 😄
+
